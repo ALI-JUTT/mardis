@@ -1,3 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&color=F70101&background=000000DB&lines=Welcome+To+Mardis.py)](https://git.io/typing-svg)
+
+
+
 # mardis
 a great Marshal decompiler python2.7
 # Installation
