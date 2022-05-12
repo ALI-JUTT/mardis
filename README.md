@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&color=F70101&background=000000DB&lines=Welcome+To+Mardis.py)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&lines=Wellcome+To+Mardis.py)](https://git.io/typing-svg)
 
 
 
